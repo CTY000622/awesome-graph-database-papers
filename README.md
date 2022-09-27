@@ -15,4 +15,4 @@ Wang, Jingbo Xu, Youyang Yao, Qiang Yin, Wenyuan Yu, Jingren Zhou, Diwen Zhu, Ro
 6. [Arxiv 22] **GraphZeppelin: Storage-Friendly Sketching for Connected Components on Dynamic Graph Streams** *David Tench, Evan West..* [paper](https://arxiv.org/abs/2203.14927)
 7. [SIGMOD 22] #vector base# **HET-GMP: A Graph-based System Approach to Scaling Large
 Embedding Model Training** *Xupeng Miao, Yining Shi, Hailin Zhang, Xin Zhang, Xiaonan Nie, Zhi Yang, Bin Cui∗* [paper](https://dl.acm.org/doi/abs/10.1145/3514221.3517902)
-8. [VLDB 22] **Hierarchical Core Maintenance on Large Dynamic Graphs** Zhe Lin, Fan Zhang, Xuemin Lin** [paper](https://dl.acm.org/doi/abs/10.14778/3446095.3446099)
+8. [VLDB 22] **Hierarchical Core Maintenance on Large Dynamic Graphs** *Zhe Lin, Fan Zhang, Xuemin Lin* [paper](https://dl.acm.org/doi/abs/10.14778/3446095.3446099)
